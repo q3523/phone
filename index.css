@@ -1,0 +1,58 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.phone{
+	width: 350px;
+	height: 600px;
+	margin: 30px auto;
+	border: 2px #000 solid;
+	border-radius: 50px;
+	background: #000;
+}
+.top{
+	width: 300px;
+	height: 30px;
+	margin: 20px auto;
+}
+.screen{
+	width: 320px;
+	height: 450px;
+	background-image: url("https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=80461859,1112349064&fm=27&gp=0.jpg");
+    background-size: cover;
+    margin: 0 auto;
+}
+.home{
+	width: 50px;
+	height: 50px;
+	border: 2px #c3bdbd solid;
+	border-radius: 50%;
+	margin: 10px auto;
+}
+.left{
+	width: 200px;
+	height: 12px;
+	border: 2px #c3bdbd solid;
+	border-radius: 8px;
+	float: left;
+	margin-top: 9px;
+	margin-left: 25px;
+}
+.center{
+	width: 14px;
+	height: 14px;
+	background: #caca99;
+	border-radius: 50%;
+	float: left;
+	margin-top: 8px;
+	margin-left: 5px;
+}
+.right{
+	width: 18px;
+	height: 18px;
+	background: #882f2f;
+	border-radius: 50%;
+	float: left;
+	margin-top: 6px;
+	margin-left: 5px;
+}
