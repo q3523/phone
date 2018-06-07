@@ -9,6 +9,32 @@
 	border: 2px #000 solid;
 	border-radius: 50px;
 	background: #000;
+	position: relative;
+}
+.left-button1{
+	width: 10px;
+	height: 20px;
+	background: #000;
+	position: absolute;
+	top:110px;
+	left: -10px;
+}
+.left-button2{
+	width: 10px;
+	height: 20px;
+	background: #000;
+	margin-top: 10px;
+	position: absolute;
+	top:130px;
+	left: -10px;
+}
+.right-button{
+	width: 10px;
+	height: 50px;
+	background: #000;
+	position: absolute;
+	top:120px;
+	right: -10px;
 }
 .top{
 	width: 300px;
